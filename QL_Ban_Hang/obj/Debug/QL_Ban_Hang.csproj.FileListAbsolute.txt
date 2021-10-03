@@ -1,0 +1,12 @@
+D:\Source VS\Bai_tap_lon\QL_Ban_Hang\bin\Debug\QL_Ban_Hang.exe.config
+D:\Source VS\Bai_tap_lon\QL_Ban_Hang\bin\Debug\QL_Ban_Hang.exe
+D:\Source VS\Bai_tap_lon\QL_Ban_Hang\bin\Debug\QL_Ban_Hang.pdb
+D:\Source VS\Bai_tap_lon\QL_Ban_Hang\obj\Debug\QL_Ban_Hang.csproj.AssemblyReference.cache
+D:\Source VS\Bai_tap_lon\QL_Ban_Hang\obj\Debug\QL_Ban_Hang.frmHello.resources
+D:\Source VS\Bai_tap_lon\QL_Ban_Hang\obj\Debug\QL_Ban_Hang.Properties.Resources.resources
+D:\Source VS\Bai_tap_lon\QL_Ban_Hang\obj\Debug\QL_Ban_Hang.csproj.GenerateResource.cache
+D:\Source VS\Bai_tap_lon\QL_Ban_Hang\obj\Debug\QL_Ban_Hang.csproj.CoreCompileInputs.cache
+D:\Source VS\Bai_tap_lon\QL_Ban_Hang\obj\Debug\QL_Ban_Hang.exe
+D:\Source VS\Bai_tap_lon\QL_Ban_Hang\obj\Debug\QL_Ban_Hang.pdb
+D:\Source VS\Bai_tap_lon\QL_Ban_Hang\obj\Debug\QL_Ban_Hang.frmBT1.resources
+D:\Source VS\Bai_tap_lon\QL_Ban_Hang\obj\Debug\QL_Ban_Hang.frmCal.resources
