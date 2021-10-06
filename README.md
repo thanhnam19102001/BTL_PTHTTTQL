@@ -1,2 +1,2 @@
 # BTL_PTHTTTQL
-phát triển hệ thống thông tin quản lý
+Bài tập lớn môn phát triển hệ thống thông tin quản lý
