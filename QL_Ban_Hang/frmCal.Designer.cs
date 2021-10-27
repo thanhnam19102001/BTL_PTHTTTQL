@@ -245,6 +245,7 @@ namespace QL_Ban_Hang
             this.Controls.Add(this.btn0);
             this.Name = "frmCal";
             this.Text = "frmCal";
+            this.Load += new System.EventHandler(this.frmCal_Load);
             this.ResumeLayout(false);
 
         }

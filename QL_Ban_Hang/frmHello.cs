@@ -18,7 +18,7 @@ namespace QL_Ban_Hang
         }
         private void btnOK_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            this.Close();
         }
 
         private void btnShow_Click(object sender, EventArgs e)

@@ -16,7 +16,7 @@ namespace QL_Ban_Hang
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmBT1());
+            Application.Run(new Mainform());
         }
     }
 }

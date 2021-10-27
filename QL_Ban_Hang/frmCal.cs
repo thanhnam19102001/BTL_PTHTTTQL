@@ -279,5 +279,10 @@ namespace QL_Ban_Hang
             secondNum = true;
             op = Opration.Chia;
         }
+
+        private void frmCal_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

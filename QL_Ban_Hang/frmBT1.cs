@@ -60,9 +60,14 @@ namespace QL_Ban_Hang
             lblKQ.Text = "Tổng các số chẵn trong " + txtN.Text + " số tự nhiên đầu tiên tính theo cách 3 là: " + Convert.ToString(t);
         }
 
+        private void frmBT1_Load(object sender, EventArgs e)
+        {
+
+        }
+
         private void button4_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            this.Close();
         }
 
         private void btnC1_Click(object sender, EventArgs e)
